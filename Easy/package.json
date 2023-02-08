@@ -1,0 +1,12 @@
+{
+  "name": "easy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testEasy.js",
+  "scripts": {
+    "test": "echo \\\"Error: no Test specified\\\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
